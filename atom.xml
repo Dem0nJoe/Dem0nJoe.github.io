@@ -39,6 +39,28 @@
   </entry>
   
   <entry>
+    <title>2023年终总结</title>
+    <link href="http://example.com/2022/03/02/18-2023%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
+    <id>http://example.com/2022/03/02/18-2023%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</id>
+    <published>2022-03-02T03:52:52.000Z</published>
+    <updated>2023-12-31T13:12:14.708Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="2023年终总结"><a href="#2023年终总结" class="headerlink" title="2023年终总结"></a><strong>2023年终总结</strong></h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>​        之前都是在我并不怎么喜欢的岗位上混饭吃，今年算是我正式进入攻防行业的第一年，终于没有再陷入内耗的精神阶段了，干自己喜欢的工作和事情，真的yyds，特别是工作即是兴趣，兴趣即是工作的时候，那种时时刻刻都在变强的感觉，还真是让人有点沉醉。</p><h2 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h2><p>下面简单做个总结，留作以后的青春回忆录？</p><p>（1）把攻防体系完整地回顾整理了两遍？</p><p>（2）简单学了几天，接触并制作出C++、python、go等语言的免杀，最高VT6</p><p>（3）攻防比赛的经验算是够了，十多场都快打吐了，还运气好混成过第一，果然老天爸爸是爱我的</p><p>（4）社工钓鱼深入了一下，但是实操一次成功的都没有，giao，我果然不是做社工的料～</p><p>（5）代码审计。回顾学习了java，审了java-sec-code，亲手调试了一些反序列化链，也调试过一些代码审计文章的过程，准备明年正式通过代码审计挖洞keep alive</p><p>（6）进了t00ls论坛，之前一直想进去却进不去，今年实力到了，随便就进去了，索然无味</p><p>（7）CNVD也交过了，本来想混个证书，但是没混成，很好，战略性撤退，明年审点lj洞去再去尝试尝试</p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><p>（1）西湖逛吐了，没啥逛的</p><p>（2）泰山爬了，简单，5-6小时爬完，第二天还没啥感觉</p><p>（3）海也看够了，并且由于次数多已经乏味了</p><p>（4）看了些书，比如《欺骗的艺术》《三十六计》《薛定谔的猫》等之前一直想要认真品读的书</p><p>（5）换了电脑，现在每天都是窝在沙发上玩电脑，啊！！！我的小肚子消不下去了～</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>​        今年生活上的目标基本达成，技术上的提升也很大，但是不够完美，因为我最想要提升的代码审计却进步不大，也确实是我太贪心了，打点、域渗透、免杀、钓鱼、代码审计等好多领域都涉足了，也都想深入达到一定成果，这样确实导致我精力不够，不够专一，明年准备主攻src和代码审计，有时间的话，可能会去学二进制。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;2023年终总结&quot;&gt;&lt;a href=&quot;#2023年终总结&quot; class=&quot;headerlink&quot; title=&quot;2023年终总结&quot;&gt;&lt;/a&gt;&lt;strong&gt;2023年终总结&lt;/strong&gt;&lt;/h1&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=</summary>
+      
+    
+    
+    
+    <category term="代码审计" scheme="http://example.com/categories/%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>代码审计初探(初窥门径-4)</title>
     <link href="http://example.com/2022/02/16/11-phpCodeAuditLearn/"/>
     <id>http://example.com/2022/02/16/11-phpCodeAuditLearn/</id>
